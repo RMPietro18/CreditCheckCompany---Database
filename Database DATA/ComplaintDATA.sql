@@ -1,0 +1,43 @@
+#Complaint
+#DATA LIST
+insert into Complaint (COMPLAINT_id, Ctcode) values (1, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (2, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (3, 'VF01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (4, 'LT03');
+insert into Complaint (COMPLAINT_id, Ctcode) values (5, 'VF01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (6, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (7, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (8, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (9, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (10, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (11, 'LT03');
+insert into Complaint (COMPLAINT_id, Ctcode) values (12, 'VL09');
+insert into Complaint (COMPLAINT_id, Ctcode) values (13, 'VL02N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (14, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (15, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (16, 'VL02N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (17, 'LT03');
+insert into Complaint (COMPLAINT_id, Ctcode) values (18, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (19, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (20, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (21, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (22, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (23, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (24, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (25, 'VL02N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (26, 'VL02N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (27, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (28, 'VF01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (29, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (30, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (31, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (32, 'VF01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (33, 'VL09');
+insert into Complaint (COMPLAINT_id, Ctcode) values (34, 'LT03');
+insert into Complaint (COMPLAINT_id, Ctcode) values (35, 'VF01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (36, 'VL01N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (37, 'VA01');
+insert into Complaint (COMPLAINT_id, Ctcode) values (38, 'VL09');
+insert into Complaint (COMPLAINT_id, Ctcode) values (39, 'VL02N');
+insert into Complaint (COMPLAINT_id, Ctcode) values (40, 'VF01');
+
